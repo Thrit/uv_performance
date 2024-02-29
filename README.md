@@ -24,8 +24,8 @@ deactivate
 #### Running with the UV environment
 ``` bash
 python -m venv .venvUv
-pip install uv
 source .venvUv/Scripts/activate
+pip install uv
 python performance_with_uv.py
 deactivate
 ```
