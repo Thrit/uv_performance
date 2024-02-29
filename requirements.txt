@@ -1,0 +1,12 @@
+pandas
+matplotlib
+scipy
+scikit-learn
+nltk
+spacy
+beautifulsoup4
+flask
+django
+fastapi
+pytest
+opencv-python
