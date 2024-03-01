@@ -44,4 +44,4 @@ docker build -t <build-name> .
 
 Article created to enrich with more content.
 
-[Article](www.google.com)
+[Improve deployment pipeline using UV library](https://medium.com/@matbrizolla/improve-deployment-pipeline-using-uv-library-ffe2b4f4da68)
