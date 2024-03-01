@@ -1,13 +1,9 @@
 
 # UV performance project
 
-  
-
 ## Introduction
 
 This project aims to compare the performance of installing a bunch of libraries using the uv and without it. Proofing that it can helps to decrease the pipeline deployment time.
-
-  
 
 ## Set up
 
